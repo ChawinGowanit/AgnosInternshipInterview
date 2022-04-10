@@ -11,3 +11,8 @@ npm install
 ```
 npm start
 ```
+6. if encounter the following error
+```
+Plugin “react” was conflicted between “package.json » eslint-config-react-app »
+```
+try to save package.json with Cntrl + s
